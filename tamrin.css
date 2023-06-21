@@ -1,0 +1,64 @@
+/* header{
+   background-image: url(./image.2.svg);
+   background-size: contain;
+   background-position: 0 40%;
+   background-color: yellow;
+   background-origin: border-box;
+   background-clip: content-box;
+   padding: 20px;
+   border: 5px dashed darkblue;
+   box-sizing: border-box;
+   height: 300px;
+    width: 100%;
+} */
+
+/* form{
+    margin-left: 30%;
+}
+body{
+    margin: 8px;
+}
+#button{
+    margin-left: 170px;
+} */
+/* @font-face {
+    font-family: "vazir";
+    src: url(./fonts/Vazirmatn-Regular.woff2) format(woff2) ;
+
+}
+
+
+header p{
+    font: italic  16px/1.8 "vazir";
+    
+}
+h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+} */
+@font-face{
+    font-family: "vazir";
+    src: url(./fonts/Vazirmatn-Regular.woff2) format(woff2);
+
+}
+html{
+    font-family: "vazir";
+}
+header{
+    background: url(./computer-program-coding-screen.jpg) 0 40%/cover ;
+    width: 50%;
+    height: 300px;
+color:rgb(219, 190, 21);
+filter: drop-shadow( 10px 10px 5px red);
+}
+header p{
+    text-align: justify;
+    
+}
+header h2{
+font-size: 40px;
+text-shadow: 3px 3px 4px #fff;
+}
+
+
+
